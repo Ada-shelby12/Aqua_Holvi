@@ -1,3 +1,6 @@
+
+#PYTHON PROGRAM TO PERFORM LIST OPERATIONS
+
 mylist=[1,2,3,'python','makes learning fun!']
 mylist.append(4)
 mylist.append(5)
