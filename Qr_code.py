@@ -1,5 +1,5 @@
 
-import qrcodefrom PIL 
+import qrcode from PIL 
 import Image
 
 # Get input data from the user
