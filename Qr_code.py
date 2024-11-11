@@ -1,4 +1,4 @@
-IJIKHimport qrcode
+import qrcode
 from PIL import Image
 
 # Get input data from the user
