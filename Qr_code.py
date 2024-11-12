@@ -1,6 +1,6 @@
 
-import qrcode from PIL 
-import Image
+import qrcode
+from PIL import Image
 
 # Get input data from the user
 data = input("Enter the data you want to encode in the QR code: ")
